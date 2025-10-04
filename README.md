@@ -1,11 +1,12 @@
 # 🪐 Órbita Kepler: Cazador de Exoplanetas con IA
 
 [![NASA Space Apps 2025](https://img.shields.io/badge/NASA%20Space%20Apps-2025-blue)](https://www.spaceappschallenge.org/)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://orbitakepler.streamlit.app) **[English Version](#english-version) • [Versión en Español](#versión-en-español)**
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://orbitakepler.streamlit.app) 
+**[English Version](#english-version) • [Versión en Español](#versión-en-español)**
 
 **Órbita Kepler** es una plataforma web interactiva desarrollada para el **NASA International Space Apps Challenge 2025**. Nuestra solución utiliza un modelo de Machine Learning optimizado para analizar datos del Telescopio Espacial Kepler, identificar posibles exoplanetas y presentar los hallazgos de una manera visual e intuitiva.
 
-![Captura de Pantalla de la App]([https://imgur.com/5jDdTU8](https://imgur.com/5jDdTU8)) 
+![Captura de Pantalla de la App](https://i.imgur.com/5jDdTU8.png)
 ---
 ## <a name="versión-en-español"></a>🌎 Versión en Español
 
@@ -66,7 +67,6 @@ Nuestra plataforma no es solo un clasificador. Es una herramienta de descubrimie
 * Máximo Amaya
 * Maia Fernandez
 * José Godoy
-* Nahuel García
 
 ---
 ---
