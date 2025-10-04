@@ -5,7 +5,7 @@
 
 **Órbita Kepler** es una plataforma web interactiva desarrollada para el **NASA International Space Apps Challenge 2025**. Nuestra solución utiliza un modelo de Machine Learning optimizado para analizar datos del Telescopio Espacial Kepler, identificar posibles exoplanetas y presentar los hallazgos de una manera visual e intuitiva.
 
-![Captura de Pantalla de la App](https://imgur.com/a/zU92RnY) 
+![Captura de Pantalla de la App](https://imgur.com/5jDdTU8) 
 ---
 ## <a name="versión-en-español"></a>🌎 Versión en Español
 
