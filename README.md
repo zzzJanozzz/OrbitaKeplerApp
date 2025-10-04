@@ -27,6 +27,12 @@ Nuestra plataforma no es solo un clasificador. Es una herramienta de descubrimie
 * **Visualizaciones Avanzadas:** Gráficos interactivos creados con Plotly para el perfil del candidato, incluyendo comparativas a escala y un innovador análisis visual de la zona habitable.
 * **Transparencia del Modelo:** Muestra la importancia de cada característica en las predicciones, explicando el "porqué" detrás de las decisiones de la IA.
 
+### Fuentes de Datos y Credibilidad
+
+Para garantizar el rigor científico, nuestro modelo fue entrenado exclusivamente con datos públicos y oficiales de la NASA.
+* **Fuente Primaria:** [Archivo de Exoplanetas de la NASA](https://exoplanetarchive.ipac.caltech.edu/) (Kepler Objects of Interest - KOI).
+* **Dataset Utilizado:** Una versión curada disponible en [Kaggle](https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results) para facilitar el entrenamiento.
+
 ### Tecnología Utilizada
 
 * **Lenguaje:** Python
@@ -89,6 +95,12 @@ Our platform is not just a classifier. It is an end-to-end discovery tool that:
 * **Bilingual Support:** Complete and seamless translation between Spanish and English.
 * **Advanced Visualizations:** Interactive charts created with Plotly for the candidate profile, including to-scale comparisons and an innovative visual analysis of the habitable zone.
 * **Model Transparency:** Displays the importance of each feature in the predictions, explaining the "why" behind the AI's decisions.
+
+### Data Source & Credibility
+
+To ensure scientific rigor, our model was trained exclusively on public, official NASA data.
+* **Primary Source:** [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) (Kepler Objects of Interest - KOI).
+* **Dataset Used:** A curated version available on [Kaggle](https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results) for training purposes.
 
 ### Technology Stack
 
