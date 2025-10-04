@@ -19,6 +19,12 @@ Nuestra plataforma no es solo un clasificador. Es una herramienta de descubrimie
 2.  **Visualiza y Explica:** Transforma los datos abstractos en perfiles planetarios visuales, mostrando comparaciones de tamaño, análisis de la zona habitable y las características que influyeron en la decisión de la IA.
 3.  **Conecta con la Ciencia Real:** Compara los candidatos con la base de datos oficial de la NASA para encontrar exoplanetas conocidos con características similares, proporcionando un contexto científico inmediato.
 
+### Fuentes de Datos y Credibilidad
+
+Para garantizar el rigor científico, nuestro modelo fue entrenado exclusivamente con datos públicos y oficiales de la NASA.
+* **Fuente Primaria:** [Archivo de Exoplanetas de la NASA](https://exoplanetarchive.ipac.caltech.edu/) (Kepler Objects of Interest - KOI).
+* **Dataset Utilizado:** Una versión curada disponible en [Kaggle](https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results) para facilitar el entrenamiento.
+
 ### Características Principales
 
 * **IA Optimizada:** El modelo fue perfeccionado mediante **Ajuste de Hiperparámetros** (`GridSearchCV`) para evitar el sobreajuste y garantizar su robustez con datos nuevos.
@@ -26,12 +32,6 @@ Nuestra plataforma no es solo un clasificador. Es una herramienta de descubrimie
 * **Soporte Multilingüe:** Completa y fluida traducción entre Español e Inglés.
 * **Visualizaciones Avanzadas:** Gráficos interactivos creados con Plotly para el perfil del candidato, incluyendo comparativas a escala y un innovador análisis visual de la zona habitable.
 * **Transparencia del Modelo:** Muestra la importancia de cada característica en las predicciones, explicando el "porqué" detrás de las decisiones de la IA.
-
-### Fuentes de Datos y Credibilidad
-
-Para garantizar el rigor científico, nuestro modelo fue entrenado exclusivamente con datos públicos y oficiales de la NASA.
-* **Fuente Primaria:** [Archivo de Exoplanetas de la NASA](https://exoplanetarchive.ipac.caltech.edu/) (Kepler Objects of Interest - KOI).
-* **Dataset Utilizado:** Una versión curada disponible en [Kaggle](https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results) para facilitar el entrenamiento.
 
 ### Tecnología Utilizada
 
@@ -88,6 +88,12 @@ Our platform is not just a classifier. It is an end-to-end discovery tool that:
 2.  **Visualizes and Explains:** It transforms abstract data into visual planetary profiles, showcasing size comparisons, habitable zone analysis, and the features that influenced the AI's decision.
 3.  **Connects to Real Science:** It compares candidates against NASA's official database to find known exoplanets with similar characteristics, providing immediate scientific context.
 
+### Data Source & Credibility
+
+To ensure scientific rigor, our model was trained exclusively on public, official NASA data.
+* **Primary Source:** [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) (Kepler Objects of Interest - KOI).
+* **Dataset Used:** A curated version available on [Kaggle](https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results) for training purposes.
+
 ### Key Features
 
 * **Optimized AI:** The model was fine-tuned using **Hyperparameter Tuning** (`GridSearchCV`) to prevent overfitting and ensure its robustness with new, unseen data.
@@ -96,20 +102,14 @@ Our platform is not just a classifier. It is an end-to-end discovery tool that:
 * **Advanced Visualizations:** Interactive charts created with Plotly for the candidate profile, including to-scale comparisons and an innovative visual analysis of the habitable zone.
 * **Model Transparency:** Displays the importance of each feature in the predictions, explaining the "why" behind the AI's decisions.
 
-### Data Source & Credibility
-
-To ensure scientific rigor, our model was trained exclusively on public, official NASA data.
-* **Primary Source:** [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) (Kepler Objects of Interest - KOI).
-* **Dataset Used:** A curated version available on [Kaggle](https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results) for training purposes.
-
 ### Technology Stack
 
-* **Language:** Python
+* **Lenguaje:** Python
 * **Machine Learning:** Scikit-learn (RandomForestClassifier, GridSearchCV)
-* **Data Analysis:** Pandas, NumPy
-* **Web Application:** Streamlit
-* **Data Visualization:** Plotly
-* **Hosting:** Streamlit Community Cloud & GitHub
+* **Análisis de Datos:** Pandas, NumPy
+* **Aplicación Web:** Streamlit
+* **Visualización de Datos:** Plotly
+* **Alojamiento:** Streamlit Community Cloud & GitHub
 
 ### How To Run Locally
 
@@ -135,7 +135,7 @@ To ensure scientific rigor, our model was trained exclusively on public, officia
 
 ### The Team
 
-**Team Órbita Kepler** | Local Event: Santa Rosa de Calamuchita
+**Team Órbita Kepler** | Evento Local: Santa Rosa de Calamuchita
 
 * Jano Nieva
 * Leon Gemiani
